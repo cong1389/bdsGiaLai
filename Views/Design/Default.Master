@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="System.Web.UI.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head id="Head" runat="server">
+    <title></title>
+    <meta name="author" content="hung.nguyen.1412@gmail.com" />
+    <meta name="generator" content="webviet24h.com" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form id="vswForm" runat="server">
+        <div id="vsw_container">
+              <VSW:StaticControl ID="StaticControl7" Code="CMenu" VSWID="vswMenuFixTop" runat="server" />
+            <div style="clear: both"></div>
+            <div style="float: left; width: 30%">
+                <VSW:StaticControl ID="StaticControl1" Code="CAdv" VSWID="vswAdvLogo" runat="server" />
+            </div>
+            <div style="float: left; width: 70%">
+                <VSW:StaticControl ID="StaticControl2" Code="CAdv" VSWID="vswAdvBanner" runat="server" />
+            </div>
+
+            <div style="clear: both"></div>
+
+            <div style="float: left; width: 80%">
+                <VSW:StaticControl ID="StaticControl3" Code="CMenu" VSWID="vswMenuTop" runat="server" />
+            </div>
+            <div style="float: left; width: 20%">
+                <VSW:StaticControl ID="StaticControl4" Code="CMenu" VSWID="vswMenuDangTin" runat="server" />
+            </div>
+            <div style="clear: both"></div>
+
+            <div style="float: left; width: 80%">
+                <VSW:StaticControl ID="StaticControl5" Code="CStatic" VSWID="vswSearchCity" runat="server" />
+            </div>
+            <div style="float: left; width: 20%">
+                <VSW:StaticControl ID="StaticControl6" Code="CStatic" VSWID="vswMenuLogin" runat="server" />
+            </div>
+
+            <div style="clear: both"></div>
+
+            <div style="float: left; width: 60%">
+                <VSW:DynamicControl ID="DynamicControl1" Code="Left" runat="server" />
+            </div>
+            <div style="float: left; width: 40%">
+                <VSW:DynamicControl ID="DynamicControl2" Code="Right" runat="server" />
+            </div>
+
+            <div style="clear: both"></div>
+            <VSW:DynamicControl ID="DynamicControl4"  Code="Footer" runat="server" />
+            <div style="clear: both"></div>
+
+            <VSW:DynamicControl ID="DynamicControl3" Code="RecycleBin" runat="server" />
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,2382 @@
+Time : 03/11/2016 08:59:46
+IP : 171.231.8.142
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 09:05:17
+IP : 171.231.8.142
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 03:38:31
+IP : 163.172.68.136
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 03:38:55
+IP : 163.172.68.136
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 03:41:05
+IP : 163.172.68.136
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 03:41:58
+IP : 163.172.68.136
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 03:42:09
+IP : 163.172.68.136
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 03/11/2016 03:44:41
+IP : 163.172.68.136
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 04/11/2016 10:32:30
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 10:32:49
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 04/11/2016 10:33:00
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 10:33:29
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 10:33:48
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 10:34:29
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 05:24:12
+IP : 66.249.79.171
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 04/11/2016 05:24:23
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 05:24:33
+IP : 66.249.79.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 05:24:43
+IP : 66.249.79.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 05:24:54
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 05:25:04
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 11:53:29
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 11:53:39
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 04/11/2016 11:53:39
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 11:53:49
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 11:54:00
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 04/11/2016 11:54:10
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 05:35:59
+IP : 66.249.75.169
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 05/11/2016 05:36:21
+IP : 66.249.75.173
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 05:36:32
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 05:36:42
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 05:36:52
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 05:37:03
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 11:31:41
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 11:31:52
+IP : 66.249.75.169
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 05/11/2016 11:32:02
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 11:32:12
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 11:32:22
+IP : 66.249.75.169
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 05/11/2016 11:32:33
+IP : 66.249.75.165
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 12:56:25
+IP : 176.123.29.244
+URL : http://bdsgialai.com/Default.aspx
+Message : Object reference not set to an instance of an object.
+Source : VSW.Libv1.1
+TargetSite : Boolean IsMobileDevice(System.String)
+StackTrace :    at VSW.Lib.Global.Utils.IsMobileDevice(String userAgent)
+   at ASP.views_cadv_float_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at (Object , HtmlTextWriter )
+   at 臠ꨨꀊ놖⛑ꊠ뱍⇏.䜇ڐ旚䈖璂읁龒⬰(Object , HtmlTextWriter ♔繏ꇄࢹ⌠삙唅)
+   at VSW.Core.MVC.ViewPageBase.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 06/11/2016 03:33:21
+IP : 113.162.141.249
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 05:32:22
+IP : 173.234.153.122
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 05:32:44
+IP : 173.234.153.122
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 05:34:51
+IP : 173.234.153.122
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 05:35:59
+IP : 173.234.153.122
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 05:36:12
+IP : 173.234.153.122
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 06/11/2016 05:39:50
+IP : 173.234.153.122
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 07/11/2016 02:38:18
+IP : 66.249.65.177
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 07/11/2016 02:38:34
+IP : 66.249.65.177
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 07/11/2016 02:39:47
+IP : 66.249.65.177
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 07/11/2016 08:08:12
+IP : 66.249.65.183
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 07/11/2016 08:08:27
+IP : 66.249.65.177
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 07/11/2016 08:08:37
+IP : 66.249.65.177
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 07/11/2016 02:20:06
+IP : 66.249.71.9
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 07/11/2016 02:20:23
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 07/11/2016 02:20:33
+IP : 66.249.79.69
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 07/11/2016 09:05:42
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 08/11/2016 07:13:00
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 08/11/2016 09:44:34
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 08/11/2016 02:47:42
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 08/11/2016 08:36:51
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 08/11/2016 09:42:32
+IP : 66.249.71.5
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 09/11/2016 05:42:07
+IP : 66.249.71.9
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:47:47
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:47:48
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:48:15
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:48:37
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 09/11/2016 04:49:19
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:49:25
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:49:40
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:49:51
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 04:49:59
+IP : 82.80.249.159
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 09/11/2016 07:42:17
+IP : 51.254.97.192
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 07:42:43
+IP : 51.254.97.192
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 07:45:07
+IP : 51.254.97.192
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 07:46:16
+IP : 51.254.97.192
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 07:46:33
+IP : 51.254.97.192
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 09/11/2016 07:50:32
+IP : 51.254.97.192
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 12/11/2016 09:40:58
+IP : 5.9.142.226
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 12/11/2016 09:41:57
+IP : 5.9.142.226
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 12/11/2016 09:42:09
+IP : 5.9.142.226
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 12/11/2016 09:45:17
+IP : 5.9.142.226
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 12/11/2016 10:13:55
+IP : 51.255.162.166
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 12/11/2016 10:14:21
+IP : 51.255.162.166
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 05:52:03
+IP : 91.121.97.49
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 05:52:24
+IP : 91.121.97.49
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 05:54:26
+IP : 91.121.97.49
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 05:55:24
+IP : 91.121.97.49
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 05:55:38
+IP : 91.121.97.49
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 05:58:59
+IP : 91.121.97.49
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 16/11/2016 07:34:18
+IP : 66.249.79.69
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 09:46:00
+IP : 66.249.79.79
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 08:12:54
+IP : 66.249.79.69
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 16/11/2016 08:13:14
+IP : 66.249.79.79
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 17/11/2016 03:19:25
+IP : 66.249.79.74
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 17/11/2016 03:19:47
+IP : 66.249.71.7
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 17/11/2016 01:46:25
+IP : 66.249.69.79
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 17/11/2016 10:10:51
+IP : 69.58.178.59
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 17/11/2016 10:10:53
+IP : 69.58.178.59
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 18/11/2016 01:49:09
+IP : 66.249.69.79
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 18/11/2016 08:44:51
+IP : 66.249.69.79
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 18/11/2016 02:55:54
+IP : 66.249.65.177
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 19/11/2016 12:48:29
+IP : 173.234.159.250
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 19/11/2016 12:48:52
+IP : 173.234.159.250
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 19/11/2016 12:51:07
+IP : 173.234.159.250
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 19/11/2016 12:52:14
+IP : 173.234.159.250
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 19/11/2016 12:52:29
+IP : 173.234.159.250
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 19/11/2016 12:56:26
+IP : 173.234.159.250
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 19/11/2016 07:09:26
+IP : 52.212.84.137
+URL : http://bdsgialai.com/Default.aspx
+Message : Object reference not set to an instance of an object.
+Source : VSW.Libv1.1
+TargetSite : Boolean IsMobileDevice(System.String)
+StackTrace :    at VSW.Lib.Global.Utils.IsMobileDevice(String userAgent)
+   at ASP.views_cadv_float_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at (Object , HtmlTextWriter )
+   at 臠ꨨꀊ놖⛑ꊠ뱍⇏.䜇ڐ旚䈖璂읁龒⬰(Object , HtmlTextWriter ♔繏ꇄࢹ⌠삙唅)
+   at VSW.Core.MVC.ViewPageBase.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 22/11/2016 04:34:23
+IP : 46.4.32.75
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 22/11/2016 04:34:37
+IP : 46.4.32.75
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 22/11/2016 04:35:46
+IP : 46.4.32.75
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 22/11/2016 04:36:21
+IP : 46.4.32.75
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 22/11/2016 04:36:29
+IP : 46.4.32.75
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 22/11/2016 04:38:26
+IP : 46.4.32.75
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 22/11/2016 09:21:22
+IP : 64.79.100.40
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 22/11/2016 09:21:23
+IP : 64.79.100.40
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 23/11/2016 09:39:24
+IP : 113.23.51.164
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 23/11/2016 09:39:27
+IP : 113.23.51.164
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 25/11/2016 04:29:47
+IP : 198.204.238.234
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 25/11/2016 04:29:59
+IP : 198.204.238.234
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 25/11/2016 04:31:02
+IP : 198.204.238.234
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 25/11/2016 04:31:34
+IP : 198.204.238.234
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 25/11/2016 04:31:42
+IP : 198.204.238.234
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 25/11/2016 04:33:26
+IP : 198.204.238.234
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+
+Time : 28/11/2016 10:07:53
+IP : 5.9.123.116
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 28/11/2016 10:08:12
+IP : 5.9.123.116
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 28/11/2016 10:10:17
+IP : 5.9.123.116
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 28/11/2016 10:11:24
+IP : 5.9.123.116
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentTemplate = null
+Source : VSW.Corev1.1
+TargetSite : Void InitializeCulture()
+StackTrace :    at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 28/11/2016 10:11:38
+IP : 5.9.123.116
+URL : http://bdsgialai.com/Default.aspx
+Message : CurrentModule = null
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂()
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂()
+   at VSW.Core.MVC.ViewPage.InitializeCulture()
+   at ASP.default_aspx.__BuildControlTree(default_aspx __ctrl)
+   at ASP.default_aspx.FrameworkInitialize()
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Time : 28/11/2016 10:15:16
+IP : 5.9.123.116
+URL : http://bdsgialai.com/Default.aspx
+Message : The control 'CMenu:vswMenuFixTop' not set Layout
+Source : VSW.Corev1.1
+TargetSite : Void 홡≱纣ㅇ鍋㾩쮂(System.Web.UI.Control, System.String, System.String, System.String, System.String, System.String)
+StackTrace :    at VSW.Core.MVC.ViewPage.홡≱纣ㅇ鍋㾩쮂(Control ꮰ隸碳貟췁�扣䡭, String 鴀쩳뎎릳ᨚ, String �䕱ᫌ旿蠤멠쨼籲, String 非砤�ꂅ∸䡸Ԙ, String �ⓩ謎숅禮쏣팥, String 㙙旉쁲䛄蜤燜癖)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.䑻셕珞�갆폤�(Control ꮰ隸碳貟췁�扣䡭)
+   at VSW.Core.MVC.ViewPage.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+

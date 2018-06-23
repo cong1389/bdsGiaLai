@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="System.Web.UI.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head id="Head" runat="server">
+    <title></title>
+    <meta name="author" content="hung.nguyen.1412@gmail.com" />
+    <meta name="generator" content="webviet24h.com" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form id="vswForm" runat="server">
+        <div id="vsw_container">
+        
+            <VSW:StaticControl Code="CAdv" VSWID="vswLogo" runat="server" />
+            <VSW:StaticControl Code="CMenu" VSWID="vswMenuTop" runat="server" />
+            <VSW:StaticControl Code="CStatic" VSWID="vswBreadcrumb" runat="server" />
+
+            <div style="clear:both"></div>
+
+            <VSW:DynamicControl Code="Main" runat="server" />
+
+            <div style="clear:both"></div>
+
+            <VSW:StaticControl Code="CMenu" VSWID="vswMenuBottom" runat="server" />
+            <VSW:StaticControl Code="CStatic" VSWID="vswFooter" runat="server" />
+
+            <div style="clear:both"></div>
+
+            <VSW:DynamicControl Code="RecycleBin" runat="server" />
+
+        </div>
+    </form>
+</body>
+</html>

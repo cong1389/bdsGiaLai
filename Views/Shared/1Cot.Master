@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="System.Web.UI.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head id="Head" runat="server">
+    <title></title>
+    <meta name="author" content="Reo.com.vn" />
+    <meta name="generator" content="Reo.com.vn" />
+    <meta content="Reo.com.vn" property="og:site_name" />
+    <meta content="683754798404450" property="fb:app_id" />
+    <meta content="article" name="og_type" property="og:type" />
+    <meta content="vi_VN" property="og:locale:alternate" />
+    <meta content="https://www.facebook.com/MuaBanBDSNet" property="article:author" />
+    <meta content="https://www.facebook.com/MuaBanBDSNet" property="article:publisher" />
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta content="vi" http-equiv="content-language" />
+    <meta content="Reo.com.vn" name="author" />
+    <meta content="Copyright © Reo.com.vn" name="copyright" />
+    <meta content="Reo.com.vn" name="generator" />
+    <meta content="vietnamese" name="language" />
+    <meta content="Vietnamese" name="geo.region" />
+    <meta content="1 days" name="revisit-after" />
+    <meta name="robots" content="index, follow" />
+    <meta id="description" name="description" content="" runat="server" />
+    <meta id="keywords" name="keywords" content="" runat="server" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="/Content/img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery.carou-fredsel-6.1.0-packed.js"></script>
+    <script type="text/javascript" src="/Content/js/library.js"></script>
+    <script type="text/javascript" src="/Content/js/bootstrap-filestyle.min.js"></script>
+    <script type="text/javascript" src="/Content/js/ajax-request.js"></script>
+    <script type="text/javascript" src="/Content/js/jwplayer.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="/Content/utils/zebra-dialog/zebra_dialog.js"></script>
+    <script type="text/javascript" src="/Content/utils/highslide/highslide-with-gallery.js"></script>
+    <script type="text/javascript" src="/Content/utils/smartpaginator/smartpaginator.js"></script>
+    <link type="text/css" href="/Content/utils/smartpaginator/smartpaginator.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"/>
+    <link type="text/css" href="/Content/utils/zebra-dialog/zebra_dialog.css" rel="stylesheet" />
+
+    <link type="text/css" href="/Content/skins/style.css" rel="stylesheet" />
+    <link href="/Content/utils/highslide/highslide.css" rel="stylesheet" type="text/css" />
+
+    <%--// 1cot--%>
+
+</head>
+<body>
+    <form id="vswForm" runat="server">
+        <div id="wrapper">
+            <div id="header">
+                <div class="header-c">
+                    <div class="pageWrap">
+                    <VSW:StaticControl ID="StaticControl7" Code="CMenu" VSWID="vswMenuFixTop" runat="server" />
+                        <VSW:StaticControl ID="StaticControl1" Code="CAdv" VSWID="vswAdvLogo" runat="server" />
+                        <VSW:StaticControl ID="StaticControl2" Code="CAdv" VSWID="vswAdvBanner" runat="server" />
+                    </div>
+                </div>
+                <!-- end class header-c -->
+                <div class="header-m">
+                    <div class="pageWrap">
+                        <VSW:StaticControl ID="StaticControl3" Code="CMenu" VSWID="vswMenuTop" runat="server" />
+                        <VSW:StaticControl ID="StaticControl4" Code="CMenu" VSWID="vswMenuDangTin" runat="server" />
+                    </div>
+                </div>
+                <!-- end class header-m -->
+                <div class="ViewMenu">
+                    <div class="pageWrap">
+                       <VSW:StaticControl ID="StaticControl5" Code="CStatic" VSWID="vswSearchCity" runat="server" />
+                        <VSW:StaticControl ID="StaticControl6" Code="CStatic" VSWID="vswMenuLogin" runat="server" />
+                    </div>
+                </div>
+                <!-- end class ViewMenu -->
+            </div>
+            <!-- end class header -->
+            <div id="content">
+                <div class="pageWrap">
+                    <div class="main all">
+                        <div class="wrap_post_new">
+                            <div class="left_post fl">
+                                <VSW:DynamicControl ID="DynamicControl3" Code="Left" runat="server" />
+                            </div>
+                            <div class="right_post fr">
+                                <VSW:DynamicControl ID="DynamicControl4" Code="Right" runat="server" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end class main-top -->
+                </div>
+            </div>
+            <!-- end id content -->
+            <div id="footer">
+                <div class="list_footer">
+                    <div class="pageWrap">
+                       <VSW:DynamicControl  Code="Footer" runat="server" />
+                    </div>
+                </div>
+                <div class="Copyright">
+                    <div class="pageWrap">
+                        <p class="tencty">
+                            {RS:Copyright}
+{RS:Analytics}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- ed id footer -->
+        </div>
+        <!-- end  id wrapper -->
+
+        <div id="loading"></div>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" Inherits="System.Web.UI.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head id="Head" runat="server">
+    <title></title>
+    <meta name="author" content="Reo.com.vn" />
+    <meta name="generator" content="Reo.com.vn" />
+    <meta content="Reo.com.vn" property="og:site_name" />
+    <meta content="683754798404450" property="fb:app_id" />
+    <meta content="article" name="og_type" property="og:type" />
+    <meta content="vi_VN" property="og:locale:alternate" />
+    <meta content="https://www.facebook.com/MuaBanBDSNet" property="article:author" />
+    <meta content="https://www.facebook.com/MuaBanBDSNet" property="article:publisher" />
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta content="vi" http-equiv="content-language" />
+    <meta content="Reo.com.vn" name="author" />
+    <meta content="Copyright © Reo.com.vn" name="copyright" />
+    <meta content="Reo.com.vn" name="generator" />
+    <meta content="vietnamese" name="language" />
+    <meta content="Vietnamese" name="geo.region" />
+    <meta content="1 days" name="revisit-after" />
+    <meta name="robots" content="index, follow" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width" />
+    <meta id="description" name="description" content="" runat="server" />
+    <meta id="keywords" name="keywords" content="" runat="server" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="/Content/img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <%--    <script type="text/javascript" src="/Content/js/jquery.carou-fredsel-6.1.0-packed.js"></script>--%>
+    <script type="text/javascript" src="/Content/js/ajax-request.js"></script>
+    <script type="text/javascript" src="/Content/js/library.js"></script>
+    <%--<script type="text/javascript" src="/Content/js/tooltip.js"></script>--%>
+    <%--<script type="text/javascript" src="/Content/js/jwplayer.js"></script>--%>
+    <script type="text/javascript" src="/Content/utils/zebra-dialog/zebra_dialog.js"></script>
+    <%--<script type="text/javascript" src="/Content/utils/highslide/highslide-with-gallery.js"></script>--%>
+    <script type="text/javascript" src="/Content/utils/smartpaginator/smartpaginator.js"></script>
+    <link type="text/css" href="/Content/utils/smartpaginator/smartpaginator.css" rel="stylesheet" />
+    <link type="text/css" href="/Content/utils/zebra-dialog/zebra_dialog.css" rel="stylesheet" />
+    <link type="text/css" href="/Content/mobile/skins/style.css" rel="stylesheet" />
+    <%--<link href="/Content/utils/highslide/highslide.css" rel="stylesheet" type="text/css" />--%>
+
+
+</head>
+<body>
+    <form id="vswForm" runat="server">
+        <%--<div class='leftimg'>
+            <vsw:staticcontrol code="CAdv" vswid="vswAdvLeft" runat="server" />
+        </div>
+        <div class='rightimga'>
+            <vsw:staticcontrol code="CAdv" vswid="vswAdvRigth" runat="server" />
+
+        </div>--%>
+        <div id="Wrap">
+            <div class="header">
+                <VSW:StaticControl ID="StaticControl3" Code="CMenu" VSWID="vswMenuTopMobi" runat="server" />
+                <!-- end class nav-btn-show fl -->
+                <VSW:StaticControl ID="StaticControl1" Code="CAdv" VSWID="vswAdvLogoMobi" runat="server" />
+                <!-- end class logo-mb -->
+                <VSW:StaticControl ID="StaticControl2" Code="CStatic" VSWID="vswStaticPC" runat="server" />
+                <!-- end class ViewPC -->
+            </div>
+            <div class="clear"></div>
+            <!-- end class header -->
+            <div class="main">
+                <div class="page_gr">
+                    <VSW:DynamicControl ID="DynamicControl1" Code="Main" runat="server" />
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+            <!-- end id content -->
+            <div id="footer">
+                <div class="copyright">
+                    {RS:Copyright}<br />
+                    {RS:Analytics}
+                </div>
+            </div>
+            <!-- ed id footer -->
+        </div>
+        <!-- end  id wrapper -->
+
+        <div id="loading"></div>
+
+    </form>
+</body>
+</html>

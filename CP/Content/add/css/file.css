@@ -1,0 +1,17 @@
+.addfile
+{
+    font-size: 13px;
+    padding: 4px;
+    width: 60%;
+    float: left;
+}
+.selectfile
+{
+    font-size: 13px;
+    padding: 4px;
+    margin-left: 5px; width: 30%; float: left;
+}
+#list_file tr
+{
+    height:90px;
+}

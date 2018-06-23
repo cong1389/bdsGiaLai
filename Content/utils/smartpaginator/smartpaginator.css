@@ -1,0 +1,128 @@
+﻿.pager div.short
+{
+    float: right;
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+    width: 74px;
+    display:none;
+}
+.pager div.short input
+{
+    width: 28px;
+    height: 18px;
+    border: none;
+    margin-left: 8px;
+    float: left;
+}
+.pager ul
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    margin-right: 4px;
+    width: 100%;
+}
+.pager ul li
+{
+    display: inline;
+    margin-left: 4px;
+}
+.pager ul li a
+{
+    /* text-decoration: none; */
+    /* display: inline-table; */
+    /* width: 30px; */
+    /* height: 25px; */
+    /* text-align: center; */
+    -moz-border-radius: 4px;
+}
+
+.pager span
+{
+    margin-left: 4px;
+    color: White;
+    float: left;
+}
+.pager .btn {
+  cursor: pointer;
+  float: left;
+  margin: 0px 0px 0 5px;
+  text-align: center;
+  width: 30px;
+  height: 15px;
+  line-height: 16px;
+}
+.pager .disabled
+{
+    color: #A0A0A0 !important;
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+/*green*/.green
+{
+    background-color: #4f7305;
+}
+.green.normal
+{
+    background-color: #588500;
+    color: White;
+    border: solid 1px #5f9000;
+}
+.green.active
+{
+    background-color: #344C00;
+    color: #F8EB00;
+    border: solid 1px #5f9000;
+}
+.pager.green .btn
+{
+    background-color: #588500;
+    color: White;
+    border: solid 1px #5f9000;
+}
+/*black*/.black
+{
+    background-color: #202020;
+}
+.black.normal
+{
+    background-color: #1d1d1d;
+    color: #B0D551;
+    border: solid 1px #000;
+}
+.black.active
+{
+    background-color: #333333;
+    color: White;
+    border: solid 1px #000;
+}
+.pager.black .btn
+{
+    background-color: #1d1d1d;
+    color: White;
+    border: solid 1px #000;
+}
+/*red*/.red
+{
+}
+.red.normal
+{
+    /* background-color: #fff; */
+    /* color: #000; */
+    /* border: solid 1px #009AFD; */
+    /* font-weight:bold; */
+}
+.red.active
+{
+    background-color: #C00D09;
+    color: White;
+    border: solid 1px #FF0500;
+    font-weight:bold;
+}
+.pager.red .btn {
+  /* border: 1px solid #828282; */
+  /* color: #F00; */
+  /* font-weight: bold; */
+  padding: 2px;
+}
